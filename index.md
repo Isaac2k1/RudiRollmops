@@ -14,6 +14,6 @@ Isaac Newton said once:
 > Der Apfel fällt
 > nicht weit vom Stamm.
 
-<img src="https://de.wikipedia.org/wiki/Datei:Sir_Isaac_Newton_by_Sir_Godfrey_Kneller,_Bt.jpg"/>
+<img src="https://image.jimcdn.com/app/cms/image/transf/dimension=960x10000:format=jpg/path/sa134122490f66f79/image/ie9a0e2d1d5a81479/version/1512515349/image.jpg"/>
 
 Isaac Newton in 1702
